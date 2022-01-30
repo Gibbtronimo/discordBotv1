@@ -111,3 +111,4 @@ for filename in os.listdir('./cogs'):   #accesses files inside listdir
 
 
 client.run('ODIzNTk3NzQ1NzQxNzU4NTU1.YFjJLA.Xx0RmzC09OAvz0nznHmjQlZphAg')   #Runs the bot using its token
+#The real token will not be uploaded to GitHub, this will stay on further revisions posted publicly
